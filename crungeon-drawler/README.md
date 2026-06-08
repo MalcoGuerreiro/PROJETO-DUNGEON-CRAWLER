@@ -84,13 +84,12 @@ Z - boss final Matt
 
 ## Desenvolvedores
 
-Adicione aqui os nomes completos dos integrantes do grupo.
+Malco Guerreiro, Salim Fraiha e Rodrigo Martins.
 
 ## Uso de IA generativa
 
 Foi utilizada IA generativa como ferramenta de apoio para planejamento, organizacao da SPEC, desenvolvimento do codigo e criacao da documentacao de estudo.
 
-A equipe deve revisar, testar e entender todo o codigo antes da entrega e da defesa.
 
 
 ## Boss Matt
