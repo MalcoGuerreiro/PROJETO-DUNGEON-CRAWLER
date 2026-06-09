@@ -188,7 +188,7 @@ void mostrarCreditos() {
     printf("====================================\n\n");
     printf("Crungeon Drawler\n\n");
     printf("Desenvolvedores:\n");
-    printf("- Adicione aqui os nomes do grupo\n\n");
+    printf("- Malco Guerreiro, Salim Fraiha e Rodrigo Martins\n\n");
     printf("Projeto academico feito em C puro no console.\n");
 
     pausar();
